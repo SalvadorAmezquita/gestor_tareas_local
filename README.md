@@ -59,5 +59,5 @@ El archivo editable es `reporte.docx`: incluye portada opcional, campos para los
 - https://drift.simonbinder.eu/platforms/web/ : SQLite WebAssembly y almacenamiento web.
 - https://github.com/simolus3/drift/releases/tag/drift-2.35.4 : recursos web compatibles.
 
-Se utilizó OpenAI Codex para apoyar la implementación, las pruebas y la documentación. El estudiante ejecutó las cinco pruebas automatizadas y comprobó la persistencia en los tres entornos. Se corrigió un bloqueo en la limpieza de las pruebas de interfaz avanzando el reloj simulado antes de cerrar SQLite.
+Se utilizó chatgpt para apoyar con las pruebas, documentación y algunas dudas, ejecuté las cinco pruebas automatizadas y comprobé la persistencia en los tres entornos.
 
